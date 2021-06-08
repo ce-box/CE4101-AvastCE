@@ -1,2 +1,3 @@
-# CE4101-AvastCE
-Simple example of an application of the Strategy design pattern implementing an "antivirus". 🛡
+# CE4101-AvastCE 🛡
+
+Simple example of an application of the strategy design pattern, we implement an "antivirus" 🛡
