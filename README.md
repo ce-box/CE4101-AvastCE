@@ -37,5 +37,27 @@ We will use the Strategy pattern to implement the different types of scans that 
      width="620"/>
 </p>
 
+Review the implementation of Java code and discover the potential of using the Strategy pattern in the solution of your projects.
+
+## Docs 📖
+
+You can find much more about how to use this project in our [documentation section](https://github.com/ce-box/CE4101-AvastCE/tree/master/docs)
+
+## Authors
+
+This project has an excellent development group formed by ITCR computer engineering students
+
+* **Esteban Alvarado** - *Developer* - [@estalvgs1999](https://github.com/estalvgs1999)
+* **Bertha Brenes** - *Developer* - [@BerthaBrenes](https://github.com/BerthaBrenes)
+* **Olman Castro** - *Developer* - [@Kstro379](https://github.com/Kstro379)
+* **Randall Mendez** - *Developer* - [@Hack998](https://github.com/Hack998)
+
+<p align="center"> Project developed at the <b>Technological Institute of Costa Rica</b> | 2021 🄯</p>
+
+
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ce-box/CE4101-AvastCE/blob/master/LICENSE) file for details
+
 ---
 
